@@ -1,6 +1,7 @@
 #!/bin/bash
 #  Author   : LINXY
 #  LinxyArchInstall - Установщик ArchLinux
+#  LinxyArchInstall is based on a script from LinuxShef - EasyArch
 
 # Функция для настройки pacman.conf на archiso
 configure_archiso_pacman() {
