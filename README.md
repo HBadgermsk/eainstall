@@ -1,16 +1,18 @@
-# EasyArch
+# LinxyArchInstall
 ----------------------------------------
+LinxyArchInstall is based on a script from LinuxShef - EasyArch
+
 Для запуска скрипта одной командой
 
 ```bash
-pacman -Sy git ; git clone https://codeberg.org/linuxshef/eainstall.git ; cd eainstall ; ./easyarch
+pacman -Sy git ; git clone https://github.com/HBadgermsk/eainstall.git ; cd eainstall ; ./eainstall
 ```
 --------------------------------------------
 
 Для запуска скрипта последовательно
 
 ```bash
-pacman -Sy git ; git clone https://codeberg.org/linuxshef/eainstall.git 
+pacman -Sy git ; git clone https://github.com/HBadgermsk/eainstall.git 
 
 cd eainstall
 
